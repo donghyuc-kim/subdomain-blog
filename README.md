@@ -1,2 +1,1 @@
-# subdomain-test
-서브도메인 테스트
+test.donghyuc.com 연결 테스트
