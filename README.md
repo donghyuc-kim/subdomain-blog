@@ -1,1 +1,1 @@
-test.donghyuc.com 연결 테스트
+kim.donghyuc.com 연결 테스트
